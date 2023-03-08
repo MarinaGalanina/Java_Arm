@@ -1,7 +1,7 @@
-# Java_Arm
+# Robotic Arm 
 		                INSTRUCTION
 
-The program allows you to simulate robot models with six degrees of freedom.
+The program allows you to simulate robot models with six degrees of freedom. In addition, it is possible to lift, freely manipulate and throw the ball.
 
 The table on the right contains the inverse kinematics.
 After entering the desired angles of rotation and clicking the "send" button,
